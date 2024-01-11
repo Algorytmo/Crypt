@@ -43,11 +43,11 @@ L'account e tutti i dati collegati ad esso verranno eliminati, file inclusi.
 Per riutilizzare il tutto ex-novo, bisognerà effettuare nuovamente la registrazione. 
 
 
-#ATTENZIONE!
+# ATTENZIONE!
 È già presente un account di prova; le credenziali sono:
-User: Test
-Pwd: 1234567890!@
-Token personale: A4JF6nBOKHUq_x7DrESOxzwb8a4kwmmWZNeBHhyQPtU=
+User Test
+Pwd 1234567890!@
+Token personale A4JF6nBOKHUq_x7DrESOxzwb8a4kwmmWZNeBHhyQPtU=
 Questi dati sono presenti nel file "test_keys.txt"
 
 
