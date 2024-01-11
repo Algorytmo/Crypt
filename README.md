@@ -3,8 +3,8 @@ Test di un Cloud privato basato sulla protezione dei dati con crittografia (Pyth
 
 
 Uno studio condotto sulla crittografia per la creazione di un cloud, orientato alla privacy dei contenuti, scritto in Python. Nello specifico:
-BackEnd: Modulo Fernet
-FrontEnd: Streamlit
+- BackEnd: Modulo Fernet
+- FrontEnd: Streamlit
 
 
 # UTILIZZO
