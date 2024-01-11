@@ -45,11 +45,10 @@ Per riutilizzare il tutto ex-novo, bisognerà effettuare nuovamente la registraz
 
 # ATTENZIONE!
 È già presente un account di prova;
-le credenziali sono:
+le credenziali sono presenti anche nel file "test_keys.txt" contenuto all'interno della repository.
 - User: Test
 - Pwd: 1234567890!@
 - Token personale: A4JF6nBOKHUq_x7DrESOxzwb8a4kwmmWZNeBHhyQPtU=
-Questi dati sono presenti nel file "test_keys.txt"
 
 
 
